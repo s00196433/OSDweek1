@@ -1,7 +1,7 @@
 import { getCurrencies } from "./getCurrencies";
 
 
-describe('getCurrencies' , () =>
+describe('Zoe Conroy S00196433' , () =>
 {
     it('it should include the USD in the Currencies',() =>
     {
